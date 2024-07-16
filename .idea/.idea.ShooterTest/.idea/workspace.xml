@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="149e9da5-cd54-40e8-a650-7f24fd2de5a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Presenters/GameView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Presenters/BaseView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/Character.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Presenters/EnemyView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Presenters/BulletView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/GameModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Presenters/EnemyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Presenters/PlayerView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UIPopup.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIPopup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GameUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/EnemyType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Presenters/EnemyFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Presenters/BaseView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Presenters/BulletView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Presenters/EnemyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Presenters/PlayerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Models/GameModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Presenters/GameView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2jKYOlxJU4b683K5xsuFMqG8pL5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="149e9da5-cd54-40e8-a650-7f24fd2de5a1" name="Default Changelist" comment="" />
+      <created>1721137206637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721137206637</updated>
+      <workItem from="1721137210225" duration="611000" />
+      <workItem from="1721138701309" duration="3849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1721149702862">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1721149702862" />
+  </component>
+</project>
